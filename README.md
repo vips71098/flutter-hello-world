@@ -1,6 +1,6 @@
 # Hello World 
 
-   This is the most basic version of Flutter App if you are just starting your venture of using Flutter. This app helps you print hello world in the center of the mobile screen. There are very few and only the required lines of codes. Unlike the complex App that opens in your editor that deals with varoius widgets and mathematics nearly scaring you away even befor you start Fluttering, this app shall help you enter from the very basic level.
+   This is the most basic version of Flutter App if you are just starting your venture of using Flutter. This app helps you print hello world in the center of the mobile screen. There are very few and only the required lines of codes. Unlike the complex App that opens in your editor that deals with varoius widgets and mathematics nearly scaring you away even before you start Fluttering, this app shall help you enter from the very basic level.
  
  ## Lets get started
  Is this you very first time reaching out for Flutter? Then never mind to check the following links:
