@@ -1,16 +1,9 @@
-# hello_world
+# Hello World 
 
-A new Flutter project.
+This is the most basic version of Flutter App if you are just starting your venture of using Flutter. This app helps you print hello world in the center of the mobile screen. There are very few and only the required lines of codes. Unlike the complex App that opens in your editor that deals with varoius widgets and mathematics nearly scaring you away even befor you start Fluttering, this app shall help you enter from the very basic level.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+ You can just download the codes and run it right away in your IDE.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ 
