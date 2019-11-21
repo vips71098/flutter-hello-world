@@ -17,6 +17,7 @@
 
 ## output
  Your emulator should be displaying the following output:
- ![](
+ 
+ ![](https://github.com/srijanabhusal/flutter-hello-world/blob/master/hello_world.PNG)
 
  
